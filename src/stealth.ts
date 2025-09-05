@@ -1,4 +1,4 @@
-// updated: 2025-08-30T02:57:00Z
+// updated: 2025-09-05T22:21:00Z
 // module: src/stealth.ts
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
