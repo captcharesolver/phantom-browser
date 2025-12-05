@@ -1,4 +1,4 @@
-// updated: 2025-11-27T23:05:00Z
+// updated: 2025-12-05T22:19:00Z
 // module: src/browser.ts
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxx
 
