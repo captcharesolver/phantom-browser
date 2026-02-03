@@ -1,4 +1,4 @@
-// updated: 2026-01-16T00:32:00Z
+// updated: 2026-02-03T05:55:00Z
 // module: tests/browser.test.ts
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxx
 
